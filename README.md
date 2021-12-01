@@ -2,7 +2,7 @@
 
 **Sobre:**
 
-  Este jogo consiste em um trabalho da disciplina de Interface Humano-Computador, do curso de Ciência da Computação da Universidade Federal Fluminense (UFF) de Rio das Ostras, com o intuito de, de forma descontraída e interativa, explicar conceitos básicos importantes de acessibilidade em UX/UI Design.
+  Este jogo consiste em um trabalho da disciplina de Interface Humano-Computador, do curso de Ciência da Computação da Universidade Federal Fluminense (UFF) de Rio das Ostras, com o intuito de explicar conceitos básicos importantes de acessibilidade em UX/UI Design de forma descontraída e interativa.
 
 *Importante ressaltar que este jogo não é direcionado para pessoas que necessitam de recursos de acessibilidade, mas sim para pessoas desenvolvedoras que projetam aplicativos e programas para uso público, para que elas possam aprender sobre conceitos básicos de acessibilidade e se inspirar para adicionarem estes tipos de recursos em seus projetos.*
 
