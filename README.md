@@ -1,53 +1,53 @@
-# Jogo Sobre Acessibilidade
+# Accessibility Game
 
-**Sobre:**
+**About:**
 
-  Este jogo consiste em um trabalho da disciplina de Interface Humano-Computador, do curso de Ciência da Computação da Universidade Federal Fluminense (UFF) de Rio das Ostras, com o intuito de explicar conceitos básicos importantes de acessibilidade em UX/UI Design de forma descontraída e interativa.
+  This game consists of work from the Human-Computer Interface discipline, from the Computer Science course at the Universidade Federal Fluminense (UFF) of Rio das Ostras, with the aim of explaining important basic concepts of accessibility in UX/UI Design in a relaxed way. and interactive.
 
-*Importante ressaltar que este jogo não é direcionado para pessoas que necessitam de recursos de acessibilidade, mas sim para pessoas desenvolvedoras que projetam aplicativos e programas para uso público, para que elas possam aprender sobre conceitos básicos de acessibilidade e se inspirar para adicionarem estes tipos de recursos em seus projetos.*
+*It is important to note that this game is not aimed at people who need accessibility features, but rather at developers who design applications and programs for public use, so that they can learn about basic accessibility concepts and be inspired to add these types of features. resources in your projects.*
 
-A proposta do Jogo é começar em um cenário totalmente inacessível:
- - Com cores nem um pouco adaptadas para daltônicos;
- - Sem Feedback Visual;
- - Sem Feedback Auditivo e sonoro.
-
-
-**Requisitos:**
-- Ter o Python instalado na máquina.
-- Ter o repositório do jogo disponível localmente.
+The Game's proposal is to start in a completely inaccessible scenario:
+ - With colors not at all adapted for color blind people;
+ - No Visual Feedback;
+ - No Auditory and Sound Feedback.
 
 
+**Requirements:**
+- Have Python installed on the machine.
+- Have the game repository available locally.
 
-**Como Jogar:**
+
+
+**How ​​to play:**
  
-  *Para rodar o jogo, baixe o repositório localmente e, da forma que preferir, execute o código main.py em sua márquina.*
+  *To run the game, download the repository locally and, however you prefer, run the main.py code on your machine.*
 
-   No jogo, você controla um pássaro, e deve coletar moedas para desbloquear novos recursos de acessibilidade.
+   In the game, you control a bird, and you must collect coins to unlock new accessibility features.
 <p align="center"><img src="/src/img/Exemplos/jogo_com_acessibilidade_para_daltonicos_e_surdos.png" alt="jogo com acessibilidade para daltonicos e surdos" width="350"/><p>
  
  
-**Comandos:**
-- Seta para cima: move o pássaro para cima;
-- Seta para baixo: move o pássaro para baixo;
-- Barra de espaço: interage com os menus e caixas de diálogo do jogo.
+**Commands:**
+- Up arrow: moves the bird up;
+- Down arrow: moves the bird down;
+- Spacebar: interacts with the game's menus and dialog boxes.
  
 
 <p align="center"><img src="/src/img/Acessivel/instrucao_jogo.png" alt="instrucao jogo" width="300"/><p>
  <p align="center"><img src="/src/img/Acessivel/aperte_espaco.gif" alt="aperte espaco" width="200"/><p>
 
-Conforme o jogador coleta deteminada quantidade de moedas, ele desbloqueia novos recursos de acessibilidade:
-- 5 moedas: Desbloqueia o recurso de acessibilidade para daltônico, transformando a paleta de cores do game em uma paleta acessível para este tipo de público.
-- 10 moedas: Desbloqueia o recurso de acessibilidade para surdos, passando a mostrar um feedback visual ilustrando os comandos do jogo.
-- 15 moedas: Desbloqueia o recurso de acessibilidade para cegos e deficiêntes visuais, passando a reproduzir um feedback auditivo quando algum texto é mostrado na tela, e habilitando os recursos sonoros do jogo.
+As the player collects a certain amount of coins, they unlock new accessibility features:
+- 5 coins: Unlocks the accessibility feature for color blind people, transforming the game's color palette into an accessible palette for this type of audience.
+- 10 coins: Unlocks the accessibility feature for the deaf, now showing visual feedback illustrating the game's commands.
+- 15 coins: Unlocks the accessibility feature for the blind and visually impaired, playing auditory feedback when text is shown on the screen, and enabling the game's sound features.
 
 
- A cada novo recurso desbloqueado, um breve texto é mostrado na tela, explicando um pouco sobre a importância de cada um dos recursos de acessibilidade.  
+ With each new feature unlocked, a brief text is shown on the screen, explaining a little about the importance of each accessibility feature.
 
- O pássaro sofre influência de uma gravidade, então, com a ausência de um comando de movimentação, o pássaro cairá com aceleração.
+ The bird is influenced by gravity, so, in the absence of a movement command, the bird will fall with acceleration.
 
- O jogo se encerra quando o pássaro colide com o limite superior ou inferior da tela.
+ The game ends when the bird collides with the upper or lower limit of the screen.
  
-**Imagens do Jogo:**
+**Game Images:**
 
 <p align="center"><img src="/src/img/Exemplos/jogo_sem_acessibilidade.png" alt="jogo sem acessibilidade" width="450"/><p>
  
